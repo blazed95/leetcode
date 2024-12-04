@@ -1,7 +1,10 @@
-Given an integer numRows, return the first numRows of Pascal's triangle.
+# 118: Pascal's Triangle
 
-In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:
+## Problem Description
 
+Given an integer `numRows`, return the first `numRows` of Pascal's triangle.
+
+In Pascal's triangle, each number is the sum of the two numbers directly above it. Here's how the first few rows of Pascal's triangle look:
 
 Example 1:
 
